@@ -1,0 +1,26 @@
+{
+    "itemsPrice": 2.75,
+    "taxPrice": 0.14,
+    "shippingPrice": 125,
+    "totalPrice": 27.89,
+    "orderItems": [
+            {
+                    "name": "Lenovo Ideapad 330s",
+                    "quantity": 1,
+                    "image": "system.jpg",
+                    "price": 275,
+                    "product": "6348acd2e1a47ca32e79f46f"
+            }
+    ],
+    "shippingInfo": {
+            "address": "SanDisk Ultra",
+            "city": "Lahore",
+            "phoneNo": "03014413115",
+            "postalCode": "1122",
+            "country": "Pakistan"
+    },
+    "paymentInfo": {
+            "id": "13243434eqrc3rc",
+            "status": "Succeeded"
+    }
+}
